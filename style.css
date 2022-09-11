@@ -142,3 +142,6 @@ padding: 2% 15%;
 
 }
 .col-md-4{margin: 20px 0 20px 0;}
+
+.footer{background: rgb(200,215,215);
+background: linear-gradient(0deg, rgba(200,215,215,1) 0%, rgba(249,243,226,1) 100%); ;}
